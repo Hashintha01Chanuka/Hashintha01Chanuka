@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hashintha</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React, Springboot**
+- 🌱 I’m currently learning **React, MERN stack**
 
 - 💬 Ask me about **Java**
 
