@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hashintha</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React, MERN stack, Springboot, Laravel**
+- 🌱 I’m currently learning **React, MERN stack, Springboot, PHP Laravel**
 
-- 💬 Ask me about **React, Java**
+- 💬 Ask me about **React, Java, JavaScript**
 
 - 📫 How to reach me **hashinthachanuka01@gmail.com**
 
