@@ -12,9 +12,14 @@
 <p align="left">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Frameworks:</h3>
 <p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,mongodb,java,php,postman,react,git,github,spring" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,java,php,react,spring" />
+  </a> </p>
+
+<h3 align="center">Tools:</h3>
+<p align="center"> <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postman,git,github" />
   </a> </p>
 
 
