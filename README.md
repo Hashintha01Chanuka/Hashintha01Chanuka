@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hashintha</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React, MERN stack, Springboot, Kotlin**
+- 🌱 I’m currently learning **React, MERN stack, Springboot, PHP, Kotlin**
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Java, Express.js, Node.js**
 
