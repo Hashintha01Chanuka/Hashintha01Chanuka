@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Hashintha</h1>
+<h1 align="center">I'm Hashintha</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **React, MERN stack, Springboot, PHP, Kotlin**
@@ -8,13 +8,14 @@
 
 - 📫 How to reach me **hashinthachanuka01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/hashintha-chanuka-b405ba336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasasdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,java,php,react,spring" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,java,php,react,spring,kotlin" />
   </a> </p>
 
 <h3 align="center">Tools:</h3>
