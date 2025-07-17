@@ -2,7 +2,7 @@
 <h1 align="center">I'm Hashintha</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React, MERN stack, Springboot, PHP, Laravel, Kotlin**
+- 🌱 I’m currently learning **React, Next, MERN stack, Springboot, PHP, Laravel, Kotlin**
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Java, Express.js, Node.js**
 
@@ -15,7 +15,7 @@
 
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,java,php,react,spring,kotlin,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,java,php,react,next,spring,kotlin,laravel" />
   </a> </p>
 
 <h3 align="center">Tools:</h3>
