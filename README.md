@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Next, MERN stack, Springboot, PHP, Laravel, Kotlin**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Java, Express.js, Node.js**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Java, Express.js, Node.js, Laravel**
 
 - 📫 How to reach me **hashinthachanuka01@gmail.com**
 
