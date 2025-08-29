@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">I'm Hashintha</h1>
+<h1 align="center">Hashintha Chanuka</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **React, Next, MERN stack, Springboot, PHP, Laravel, Kotlin**
