@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Next, MERN stack, Springboot, PHP, Laravel, Kotlin**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Java, Express.js, Node.js, Laravel**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Java, Laravel, Express.js, Node.js**
 
 - 📫 How to reach me **hashinthachanuka01@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,java,php,react,next,spring,kotlin,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,laravel,spring,nodejs,mongodb,php,next,kotlin" />
   </a> </p>
 
 <h3 align="center">Tools:</h3>
